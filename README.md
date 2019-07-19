@@ -1,5 +1,5 @@
 # Kaggle house price machine learning competition notebook
-Jupyter notebook for Kaggle machine learning competition--house price regression problem
+This repo contains a python Jupyter notebook for a Kaggle machine learning competition--house price regression problem
 
 The structure of the program is as follows:
 ### 1. Read-in data and look at descriptive stats 
